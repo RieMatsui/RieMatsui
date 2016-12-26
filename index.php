@@ -6,8 +6,7 @@
 </head>
 <body>
 Hello,world!
-<h1>My neme is Rie.</h1>
-<!-- 追加した文章 -->
+<h1>My neme is Rie.</h1>　<!-- 追加した文章 -->
 <h2>こんにちは</h2>
 </body>
 </html>
